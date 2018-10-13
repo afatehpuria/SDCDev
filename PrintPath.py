@@ -95,8 +95,8 @@ def search(grid,init,goal,cost):
     for i in range(len(policy)):
         print(policy[i])
     
-    for i in range(len(action)):
-        print(action[i])
+    # for i in range(len(action)):
+    #     print(action[i])
     
     # print(expand)
 
